@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    id="cordova-plugin-cache-json" version="1.0.1">
+    <name>Cache content into json files</name>
+    <description>Cache content into json files for Cordova/PhoneGap</description>
+    <license>Apache 2.0</license>
+    <keywords>cordova,android,ios,cache,json,file,files</keywords>
+
+    <!-- info -->
+    <info>
+    </info>
+
+    <js-module src="www/jsv2/CacheJson.js">
+        <clobbers target="CacheJson" />
+    </js-module>
+
+</plugin>
