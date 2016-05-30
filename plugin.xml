@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="cordova-plugin-cache-json" version="1.0.1">
+    id="cordova-plugin-cache-json" version="1.0.2">
     <name>Cache content into json files</name>
     <description>Cache content into json files for Cordova/PhoneGap</description>
     <license>Apache 2.0</license>
